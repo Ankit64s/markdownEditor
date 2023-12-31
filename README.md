@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#Hosted Link:
+##Hosted Link:
 https://markdown-editor-readme.netlify.app/
 
 ## Available Scripts
